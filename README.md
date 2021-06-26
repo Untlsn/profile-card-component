@@ -1,7 +1,6 @@
-# Profile Card Component [![Netlify Status](https://api.netlify.com/api/v1/badges/1006476c-0c97-4622-b5c6-5f9386102f90/deploy-status)](https://app.netlify.com/sites/lucid-poitras-4a3d03/deploys)
+# Profile Card Component [![Netlify Status](https://api.netlify.com/api/v1/badges/1006476c-0c97-4622-b5c6-5f9386102f90/deploy-status)](https://app.netlify.com/sites/untlsn-victor/deploys)
 Own version of project from [Fylo Data](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n) from Frontend Mentor create in gatsby
-## Netlify page
-*https://lucid-poitras-4a3d03.netlify.app/*
+## [Netlify page](https://untlsn-victor.netlify.app/)
 # Start
 - For run only on device
   - npm
